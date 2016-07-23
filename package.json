@@ -1,0 +1,22 @@
+{
+  "name": "thewei.github.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewei/thewei.github.com.git"
+  },
+  "author": "thewei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewei/thewei.github.com/issues"
+  },
+  "homepage": "https://github.com/thewei/thewei.github.com#readme",
+  "dependencies": {
+    "acyort": "^0.3.4"
+  }
+}
