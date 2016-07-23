@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/thewei/thewei.github.com#readme",
   "dependencies": {
-    "acyort": "^0.3.4"
+    "acyort": "git+https://github.com/thewei/acyort#master"
   }
 }
