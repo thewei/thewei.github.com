@@ -65,7 +65,7 @@ authors:
 
 # GitHub access token(optional)
 # token should be separated by '#' if you push this file to GitHub
-token: 5#ef642ab917717ffbe5290cc52ce03516cec63a69
+token: ef642ab917717ffbe5290cc52ce03516cec63a69
 
 # json output
 # boolean or string
